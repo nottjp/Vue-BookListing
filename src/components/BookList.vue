@@ -32,8 +32,4 @@ ul {
     padding:0;
     list-style-type:none;
 }
-li {
-    display:block;
-    margin:0 10px;
-}
 </style>
