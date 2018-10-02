@@ -2,7 +2,7 @@
     <div>
         <h1>{{title}}</h1>
         <ul>
-            <book-item v-for:book="book"></book-item>
+            <book-item v-for:book="book in books"></book-item>
         </ul>
     </div>
 </template>
